@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rodrigo.
+- 👀 I’m interested in Data Analysis.
+- 🌱 I’m currently learning Bi and SQL Server.
